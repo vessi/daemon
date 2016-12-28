@@ -1,3 +1,5 @@
+package daemon
+
 // Copyright 2016 The Go Authors. All rights reserved.
 // Use of this source code is governed by
 // license that can be found in the LICENSE file.
@@ -153,7 +155,6 @@ Example:
 
 Go daemon
 */
-package daemon
 
 import "strings"
 
